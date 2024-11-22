@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 import java.util.List;
-
+//
 public class Multiliste{
     public static void main(String[] args) {
         List<Integer> multi = new ArrayList<>(List.of(13,14,15));

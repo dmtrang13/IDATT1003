@@ -1,6 +1,6 @@
 public class NyString {
     private final String tekst; //immutable
-
+//
     public NyString(String tekst){
         this.tekst = tekst;
     }

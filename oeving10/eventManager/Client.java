@@ -1,7 +1,7 @@
 package oeving10.eventManager;
 import java.util.Comparator;
 import java.util.Scanner;
-
+//
 public class Client {
     private static final Scanner scanner = new Scanner(System.in);
     

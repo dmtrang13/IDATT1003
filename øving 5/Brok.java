@@ -1,7 +1,7 @@
 public class Brok {
     private int nevner;
     private int teller;
-
+//
     //Konstruktør 1
     public Brok(int teller, int nevner){
         if (nevner == 0){
