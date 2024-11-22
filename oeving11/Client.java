@@ -32,7 +32,7 @@ public class Client {
 
      /**
      * Prompts the user to enter a valid integer value. 
-     * If the input is invalid, the user is asked to try again.
+     * If the input is invalid, the user is then asked to try again.
      * 
      * @param message The message displayed to the user.
      * @return A valid integer entered by the user.
