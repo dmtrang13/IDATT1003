@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+
 public class Skuddaar{
     public static boolean isLeap(int year) {
 

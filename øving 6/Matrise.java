@@ -1,6 +1,6 @@
 public class Matrise {
     private final int[][] matrix; //immutable
-//
+
     public Matrise (int[][] matrix) {
         this.matrix = new int[matrix.length][matrix[0].length]; //matrix[0].length return numbers of columns in first row
         for (int i = 0; i < matrix.length; i++){

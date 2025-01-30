@@ -1,4 +1,4 @@
-//FILE DOES NOT WORK IN VSCODE. TRY INTELLJ//
+//FILE DOES NOT WORK IN VSCODE. TRY INTELLJ
 
 import java.util.Scanner;
 import java.nio.charset.StandardCharsets;

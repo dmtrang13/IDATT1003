@@ -1,3 +1,4 @@
+
 public class Kjoeettdeig{ 
     public static void main(String[] args) {
         double A = 35.90/450*100;

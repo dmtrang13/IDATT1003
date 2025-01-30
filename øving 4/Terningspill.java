@@ -1,3 +1,4 @@
+
 public class Terningspill {
     private int sumPoeng;
     private java.util.Random terning ;
